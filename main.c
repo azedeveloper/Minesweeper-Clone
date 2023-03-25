@@ -1,3 +1,12 @@
+/****************************************************************************************************************************************************************
+*
+*  Copyright (c) AzE. All rights reserved.                                                                                                                    
+*                                                                                                                                                             
+*  This code is licensed for non-commercial use only. You may not publish, distribute, sublicense, and/or sell copies of the software for commercial purposes.
+*                                                                                                                                                             
+*
+****************************************************************************************************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
