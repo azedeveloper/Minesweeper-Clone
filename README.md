@@ -26,4 +26,4 @@ Minesweeper is a classic game that has been around for decades. The objective of
 - Right-click a square to flag it as a potential mine location.
 
 
-###⚠️ Please note that this is just a very simple game I made to learn the basics of C. ⚠️
+### ⚠️ Please note that this is just a very simple game I made to learn the basics of C. ⚠️
