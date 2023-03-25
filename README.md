@@ -8,7 +8,7 @@ This is a clone of Minesweeper that I made in C with Raylib.
 
 Minesweeper is a classic game that has been around for decades. The objective of the game is to uncover all the squares on the board without detonating any mines. Here are the instructions on how to play Minesweeper-Clone:
 
-1. **Installation**: To run the game, simply download the minesweeper.exe file in the releases tab.
+1. **Installation**: To run the game, simply download the minesweeper.exe by clicking [here](https://github.com/azedeveloper/Minesweeper-Clone/releases/download/v1.0/minesweeper.exe)
 
 2. **Starting the Game**: The game will start with a blank board filled with hidden squares, some of which may contain mines. 
 
