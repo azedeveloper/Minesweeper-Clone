@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/98660020/227734762-883f5dbf-ea5f-461e-b07e-f2fdbed953c6.png)
+![image](https://user-images.githubusercontent.com/98660020/227735103-600ddeec-2d26-4f61-ba4c-637dddc4cf37.png)
 
 # 🕹️ Minesweeper-Clone
 
