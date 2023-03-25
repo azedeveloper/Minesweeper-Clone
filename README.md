@@ -4,6 +4,8 @@
 
 This is a clone of Minesweeper that I made in C with Raylib.
 
+If you want to play the game in the web you can do so [here](https://azedev.itch.io/minesweeper-clone/)
+
 ## How to Play
 
 Minesweeper is a classic game that has been around for decades. The objective of the game is to uncover all the squares on the board without detonating any mines. Here are the instructions on how to play Minesweeper-Clone:
